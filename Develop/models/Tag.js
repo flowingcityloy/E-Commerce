@@ -14,14 +14,7 @@ Tag.init(
       autoIncrement: true
     },
     tag_name: {
-      type: DataTypes.INTEGER
-    },
-    tag_id: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'reader', 
-        key: 'id'
-      }
+      type: DataTypes.STRING
     },
   },
   {
