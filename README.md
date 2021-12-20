@@ -1,9 +1,9 @@
 # E-Commerce    
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Description
-This application is to assist users
 
+## Description
+This application is a back end service to assist business owners/managers to update their internet retail companies by using new technologies in order to be more competitive in the field.
 
 
 
@@ -31,9 +31,9 @@ This application is to assist users
   
 ## Usage 
 The following image demonstrates the web application's appearance and functionality:
-<p><img src="./assets/E-tracker.gif"/></p>
+<p><img src="./assets/E-commerce.gif"/></p>
 Please click on the following link for clearer video:
-<p><a href=https://watch.screencastify.com/v/hnQhzISm3Q47y1u7QDYZ>Link</a></p>
+<p><a href=https://watch.screencastify.com/v/uidIelTwDot9AraOAEpW>Link</a></p>
 
 
 ## Website
