@@ -31,7 +31,7 @@ This application is a back end service to assist business owners/managers to upd
   
 ## Usage 
 The following image demonstrates the web application's appearance and functionality:
-<p><img src="./assets/E-commerce.gif"/></p>
+<p><img src="./Assets/E-commerce.gif"/></p>
 Please click on the following link for clearer video:
 <p><a href=https://watch.screencastify.com/v/uidIelTwDot9AraOAEpW>Link</a></p>
 
